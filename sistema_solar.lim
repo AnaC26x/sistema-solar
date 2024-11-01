@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursosana</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>4728A4</corbanda>
+        <cornavega>000000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Sistema solar</titulo>
+        <autor>Ana Camacho</autor>
+        <iden>2024164011</iden>
+        <logo>espacio_(1).jpg</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>espacio_(4).jpeg</imaxe>
+              <forma>1</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#000000" face="Arial" size="12"> </font><font color="#000000" face="Bahnschrift" size="32">¡Hola, chicos! ¡Bienvenidos al increíble y misterioso Sistema Solar!<br>
+<br>
+Hoy vamos a ser exploradores espaciales y descubrir juntos todos los secretos que esconden los planetas, el Sol, y algunos otros viajeros espaciales.<br>
+¿Están listos? Abróchense los cinturones y preparen sus cascos espaciales, ¡porque vamos a despegar en 3... 2... 1…!<br>
+<br>
+</font></p>
+<p align="left">
+<font color="#000000" face="Bahnschrift" size="24"><b>¡Nuestro primer destino es el Sol!</b><br>
+<br>
+<br>
+<b>Docente: Ana Camacho</b><br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <cfondo>800080</cfondo>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>38</tipo>
+              <imaxe>espacio_(4).jpeg</imaxe>
+              <forma>1</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Bahnschrift" size="24"><b>El Sol</b><br>
+<b>Imagina que el Sol es una gran bola de fuego gigante. Es una estrella muy caliente que está en el centro del Sistema Solar. ¡Todos los planetas giran a su alrededor!</b><br>
+<br>
+<b>2. Los Planetas</b><br>
+<b>Hay ocho planetas en nuestro Sistema Solar, y cada uno es único:</b><br>
+<br>
+<b>Mercurio: Es el planeta más cercano al Sol y el más pequeño. ¡Es tan caliente durante el día que podrías freír un huevo!</b><br>
+<br>
+<b>Venus: Este planeta es casi del mismo tamaño que la Tierra, pero tiene una atmósfera tan espesa que hace muchísimo calor.</b><br>
+<br>
+<b>Tierra: ¡Nuestro hogar! Es el único planeta donde sabemos que hay vida y tiene agua en abundancia.</b><br>
+<br>
+<b>Marte: El planeta rojo. Algunos lo llaman “el hermano de la Tierra” porque tiene estaciones y paisajes parecidos.</b><br>
+<br>
+<b>Júpiter: El planeta más grande. Es una gran bola de gas y tiene una enorme tormenta llamada “La Gran Mancha Roja”.</b><br>
+<br>
+<b>Saturno: Es famoso por sus hermosos anillos, hechos de hielo y roca.</b><br>
+<br>
+<b>Urano: Este planeta es muy frío y tiene anillos, aunque menos brillantes que los de Saturno.</b><br>
+<br>
+<b>Neptuno: Es el planeta más lejano del Sol, muy frío y con fuertes vientos.</b><br>
+<br>
+<br>
+<b>3. Otros habitantes del Sistema Solar</b><br>
+<b>Además de planetas, hay lunas, asteroides y cometas. Las lunas son como pequeños compañeros de algunos planetas (la Tierra tiene una, pero Júpiter tiene más de 70). Los asteroides son rocas que se mueven por el espacio, y los cometas son bolas de hielo y polvo que, cuando pasan cerca del Sol, tienen colas brillantes.</b><br>
+<br>
+</font></p>
+]]></texto>
+              <cfondo>400040</cfondo>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Identifica el planeta!</cabeceira>
+              <modo>3</modo>
+              <cousa nome="marte">espacio_(7).jpeg</cousa>
+              <cousa nome="urano">espacio_(10).jpeg</cousa>
+              <cousa nome="neptuno">espacio_(11).jpeg</cousa>
+              <cousa nome="sol">espacio_(5).jpeg</cousa>
+              <cousa nome="jupiter">espacio_(8).jpeg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>11</tipo>
+              <cabeceira>Identifica el planeta!</cabeceira>
+              <modo>3</modo>
+              <cousa nome="venus">jupiter.jpg.jpeg</cousa>
+              <cousa nome="saturno">espacio_(9).jpeg</cousa>
+              <cousa nome="la tierra">espacio_(6).jpeg</cousa>
+              <cousa nome="mercurio">espacio_(12).jpeg</cousa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="espacio_(10).jpeg">urano</sopa>
+              <sopa enun="espacio_(12).jpeg">mercurio</sopa>
+              <sopa enun="espacio_(6).jpeg">tierra</sopa>
+              <sopa enun="espacio_(8).jpeg">jupiter</sopa>
+              <sopa enun="espacio_(11).jpeg">neptuno</sopa>
+              <sopa enun="espacio_(5).jpeg">sol</sopa>
+              <sopa enun="espacio_(7).jpeg">marte</sopa>
+              <sopa enun="espacio_(9).jpeg">saturno</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="6" >
+              <tipo>51</tipo>
+              <valor>6</valor>
+              <peza imaxe="espacio_(5).jpeg">1</peza>
+              <peza imaxe="espacio_(6).jpeg">2</peza>
+        </paxina>
+        <paxina id="7" >
+              <tipo>19</tipo>
+              <imaxe>espacio_(2).jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">sistema solar</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>29</tipo>
+              <texto><![CDATA[Conclusión...
+¡El sistema solar es un lugar increíble y lleno de maravillas! Con planetas de colores, lunas, asteroides y el brillante Sol en el centro, hay mucho por explorar y aprender. Ahora que sabes más sobre los planetas y todo lo que hay en el espacio, puedes imaginar cómo sería viajar entre las estrellas y descubrir nuevos mundos. ¡Sigue explorando y aprendiendo, porque el universo está lleno de sorpresas esperando a ser descubiertas por pequeños astronautas como tú!]]></texto>
+              <cfondo>420042</cfondo>
+              <ctexto>FFFFFF</ctexto>
+              <modo>0</modo>
+              <forma>16</forma>
+        </paxina>
+    </libro>
+</lim>
